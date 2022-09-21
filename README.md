@@ -1,4 +1,4 @@
-# MiksDacha.github.io-create_gallery
+# Create_gallery
 
 
 Bright and fascinating animation
